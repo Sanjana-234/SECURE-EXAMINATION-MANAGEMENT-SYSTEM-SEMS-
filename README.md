@@ -6,7 +6,6 @@ tamper-evidence checks. Security is enforced on the server at every stage. The s
 the modules built into Node.js.
 
 > **Project:** Special Project, Faculty of Science & Technology, The ICFAI Foundation for Higher Education (IFHE), Hyderabad
-> **Team:** Cheguri Aditya Ram (24STUCHH010113), Kakarla Sai Sanjana Devi (24STUCHH010455), Yedlapalli Sai Santosh (24STUCHH010181), Peddoju Siddarth (24STUCHH101729)
 > **Guide:** Dr. Dileep Kumar M
 
 ---
